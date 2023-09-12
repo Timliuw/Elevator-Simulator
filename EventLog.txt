@@ -1,0 +1,83 @@
+
+2022-1-20  14:08:21	Elevator starts service.
+2022-1-20  14:08:30	UP button is pressed on F1
+2022-1-20  14:08:30	The destination floor is 8
+2022-1-20  14:08:31	Elevator stops on F1
+2022-1-20  14:08:34	Door is fully opened on F1
+2022-1-20  14:08:34	UP button is pressed on F2
+2022-1-20  14:08:35	DOWN button is pressed on F3
+2022-1-20  14:08:36	UP button is pressed on F4
+2022-1-20  14:08:38	Door starts closing on F1
+2022-1-20  14:08:41	Elevator is fully closed
+2022-1-20  14:08:44	The destination floor is 6
+2022-1-20  14:08:45	Elevator stops on F2
+2022-1-20  14:08:48	Door is fully opened on F2
+2022-1-20  14:08:52	Door starts closing on F2
+2022-1-20  14:08:55	Elevator is fully closed
+2022-1-20  14:09:03	The destination floor is 8
+2022-1-20  14:09:04	Elevator stops on F4
+2022-1-20  14:09:07	Door is fully opened on F4
+2022-1-20  14:09:11	Door starts closing on F4
+2022-1-20  14:09:14	Elevator is fully closed
+2022-1-20  14:09:24	Elevator stops on F6
+2022-1-20  14:09:27	Door is fully opened on F6
+2022-1-20  14:09:31	Door starts closing on F6
+2022-1-20  14:09:34	Elevator is fully closed
+2022-1-20  14:09:43	Elevator stops on F8
+2022-1-20  14:09:46	Door is fully opened on F8
+2022-1-20  14:09:50	Door starts closing on F8
+2022-1-20  14:09:53	Elevator is fully closed
+2022-1-20  14:10:13	The destination floor is 1
+2022-1-20  14:10:14	Elevator stops on F3
+2022-1-20  14:10:17	Door is fully opened on F3
+2022-1-20  14:10:21	Door starts closing on F3
+2022-1-20  14:10:24	Elevator is fully closed
+2022-1-20  14:10:34	Elevator stops on F1
+2022-1-20  14:10:37	Door is fully opened on F1
+2022-1-20  14:10:41	Door starts closing on F1
+2022-1-20  14:10:44	Elevator is fully closed
+
+2023-9-10  18:21:28	Elevator starts service.
+
+2023-9-10  18:21:32	Elevator starts service.
+2023-9-10  18:21:34	UP button is pressed on F5
+2023-9-10  18:21:50	UP button is pressed on F6
+2023-9-10  18:21:50	UP button is pressed on F7
+2023-9-10  18:21:50	The destination floor is 9
+2023-9-10  18:21:50	UP button is pressed on F7
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:51	Elevator stops on F5
+2023-9-10  18:21:51	UP button is pressed on F7
+2023-9-10  18:21:52	UP button is pressed on F7
+2023-9-10  18:21:52	UP button is pressed on F7
+2023-9-10  18:21:52	UP button is pressed on F7
+2023-9-10  18:21:52	UP button is pressed on F8
+2023-9-10  18:21:52	UP button is pressed on F8
+2023-9-10  18:21:53	UP button is pressed on F8
+2023-9-10  18:21:53	UP button is pressed on F9
+2023-9-10  18:21:53	UP button is pressed on F9
+2023-9-10  18:21:53	UP button is pressed on F9
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:54	Door is fully opened on F5
+2023-9-10  18:21:54	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:55	UP button is pressed on F9
+2023-9-10  18:21:56	UP button is pressed on F9
+2023-9-10  18:21:56	UP button is pressed on F9
+2023-9-10  18:21:58	Door starts closing on F5
+2023-9-10  18:22:01	Elevator is fully closed
+2023-9-10  18:22:05	The destination floor is 8
+2023-9-10  18:22:06	Elevator stops on F6
